@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somashekar N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend/AWS developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on AWS / Devops <br>👯 I’m looking to collaborate on @Everyone<br>🤝 I’m looking for help with @Everyone<br>🌱 I’m currently learning MERN<br>💬 Ask me about n.somashekar0007@gmail.com<br>⚡ Fun fact I'm Enthusiastic coder
