@@ -27,3 +27,9 @@ h1 align="center">Hi 👋, I'm Somashekar N</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somashekar17&show_icons=true&locale=en" alt="somashekar17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somashekar17&" alt="somashekar17" /></p>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=somashekar17&icon=0&color=2)](https://visitcount.itsvg.in)
